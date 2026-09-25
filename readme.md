@@ -6,7 +6,12 @@ Written from scratch in python relying on ZERO existing models.
 A Corpus of data with a generation system of an Order 4 N-Gram Markov.
 
 ## Default Training Data
-You can download the training data from [here](https://drive.google.com/file/d/1FmFF7LGnYB0EuPoQ79Fq_TycsLaUHV_m/view?usp=sharing)
+You can download the training data from [here](https://drive.google.com/file/d/1FmFF7LGnYB0EuPoQ79Fq_TycsLaUHV_m/view?usp=sharing).
+Released under CC BY SA.
+
+### Credits
+- Project Gutenburg
+- Wikipedia
 
 ## Requirements
 Intel-I5-10400 CPU, and 16 Gb RAM preferred, has not been tested on other systems. 
